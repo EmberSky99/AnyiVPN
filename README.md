@@ -1,6 +1,7 @@
 # 安易加速器
 
 一款稳定、高速、安全的 VPN 服务，新用户可获得 365 天免费体验。
+![logo](https://github.com/EmberSky99/AnyiVPN/blob/main/index4.png)
 
 ## ✨ 主要特点
 
