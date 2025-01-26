@@ -14,7 +14,7 @@
 
 ## 📥 下载地址
 
-- Windows : [下载](https://www.anyi555.com/?mid=1024#download_areax)
+- Windows : [下载](https://github.com/EmberSky99/AnyiVPN/releases)
 - Android APK: [下载](https://www.anyi555.com/app/download?platform=2&channel=download_01&mid=1024&ts=1737867719679&app=ay)
 
 ## 💎 会员方案
